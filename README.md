@@ -38,10 +38,14 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 
 3. Na página inicial do Vision Studio, selecione **Visualizar todos os recursos** no título **Introdução ao Vision**.
 
+![image](https://github.com/juliocandrade/azure-ai-vision-studio/assets/66694754/d890f57c-9000-4dd0-b076-caa47e524f1c)
+
 4. Na página **Selecione um recurso para trabalhar**, passe o cursor do mouse sobre o recurso que você criou acima na lista e marque a caixa à esquerda do nome do recurso e selecione **Selecionar como recurso padrão**.
 
-> [!IMPORTANT]
-> Se o seu recurso não estiver listado, pode ser necessário **atualizar** a página.
+ >[!IMPORTANT]
+ > Se o seu recurso não estiver listado, pode ser necessário **atualizar** a página.
+
+![image](https://github.com/juliocandrade/azure-ai-vision-studio/assets/66694754/3d0b83ef-b454-4b51-996d-f6918d936a6d)
 
 5. Feche a página de configurações selecionando o “x” no canto superior direito da tela.
 
@@ -63,7 +67,11 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
       - Nos **Detected attributes**, qualquer texto encontrado na imagem é organizado em uma estrutura hierárquica de regiões, linhas e palavras.
       - Na imagem, a localização do texto é indicada por uma caixa delimitadora, conforme mostrado aqui:
 
+![image](https://github.com/juliocandrade/azure-ai-vision-studio/assets/66694754/b7b9dfbe-8683-4cc4-b9b1-90e07bb59268)
+
 7. Agora você pode tentar outra imagem. **Browse for a file** e navegue até a pasta onde você salvou os arquivos do GitHub. Selecione **letter.jpg**.
+
+![image](https://github.com/juliocandrade/azure-ai-vision-studio/assets/66694754/c078f6db-7e25-4516-b43d-aa669f611e43)
 
 8. Revise os resultados da segunda imagem. Deve retornar o texto e as caixas delimitadoras do texto. Se você tiver tempo, tente **note.jpg** e **receipt.jpg**.
 </details>
